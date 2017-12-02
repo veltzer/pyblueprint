@@ -1,0 +1,8 @@
+https://www.draw.io/
+http://blockdiag.com/en/blockdiag/index.html
+https://pypi.python.org/pypi/svgwrite
+http://codeboje.de/pysvg/
+http://wiki.inkscape.org/wiki/index.php/InkSlide
+https://www.techrepublic.com/blog/linux-and-open-source/four-ways-to-generate-or-process-inkscape-vector-graphics-automatically/
+
+https://stackoverflow.com/questions/9853325/how-to-convert-a-svg-to-a-png-with-image-magick
