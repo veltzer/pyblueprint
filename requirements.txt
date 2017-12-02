@@ -1,0 +1,7 @@
+# THIS IS AN AUTO-GENERATED FILE. DO NOT EDIT!
+# production requirements
+svgwrite
+# dev requirements
+pypitools
+pydmt
+pyclassifiers
