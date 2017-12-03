@@ -104,3 +104,5 @@ ENV/
 /docs/.doctrees
 
 /.idea/workspace.xml
+
+/*.svg
