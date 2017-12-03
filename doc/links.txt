@@ -6,3 +6,10 @@ http://wiki.inkscape.org/wiki/index.php/InkSlide
 https://www.techrepublic.com/blog/linux-and-open-source/four-ways-to-generate-or-process-inkscape-vector-graphics-automatically/
 
 https://stackoverflow.com/questions/9853325/how-to-convert-a-svg-to-a-png-with-image-magick
+
+svg editors:
+inkscape, karbon
+
+Shapes to incorporate:
+- /usr/share/calligra/*
+Also get shapes from inkscape.
