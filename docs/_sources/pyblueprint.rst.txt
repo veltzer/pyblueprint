@@ -4,8 +4,8 @@ pyblueprint package
 Submodules
 ----------
 
-pyblueprint\.blueprint module
------------------------------
+pyblueprint.blueprint module
+----------------------------
 
 .. automodule:: pyblueprint.blueprint
     :members:

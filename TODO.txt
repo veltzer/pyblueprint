@@ -1,0 +1,2 @@
+- make the copyright notice in sphinx/conf.py will be derived from
+	the configs in config/*.py.
