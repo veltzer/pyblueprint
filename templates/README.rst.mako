@@ -1,8 +1,8 @@
 <%!
     import config.project
-    import config.personal
+    import user.personal
 %>=======================
-*${config.project.project_name}* project by ${config.personal.personal_fullname}
+*${config.project.project_name}* project by ${user.personal.personal_fullname}
 =======================
 
 project website: ${config.project.project_website}
