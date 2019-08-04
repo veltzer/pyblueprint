@@ -11,7 +11,7 @@ class BluePrint:
         self.dwg = svgwrite.Drawing(filename=filename)
 
     def text(self, text: str):
-        self.dwg.add(svgwrite.text.Text(text=text))
+        self.dwg.add(svgwrite.text.Text(text=text, fill="red"))
 
     def square(self):
         self.dwg.add(svgwrite.shapes.Rect())

@@ -1,3 +1,11 @@
+unidecode
+pandas
+numpy
+PyYAML
+requests
+tqdm
+pylogconf
+click
 # THIS IS AN AUTO-GENERATED FILE. DO NOT EDIT!
 # production requirements
 svgwrite
