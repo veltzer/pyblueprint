@@ -4,7 +4,7 @@ b = pyblueprint.blueprint.BluePrint(filename="/tmp/empty.svg")
 b.save()
 
 b = pyblueprint.blueprint.BluePrint(filename="/tmp/hello.svg")
-b.text("Hello")
+b.text("Hello", foo="goo")
 b.save()
 
 b = pyblueprint.blueprint.BluePrint(filename="/tmp/square.svg")
