@@ -9,17 +9,20 @@ import svgwrite.shapes
 class BluePrint:
     def __init__(self, filename: str):
         self.dwg = svgwrite.Drawing(filename=filename)
-        self.palette = Palette()
+        # self.palette = Palette()
 
     def background(self):
         self.dwg.add(svgwrite.shapes.Rect())
 
     def text(self, text: str, color: str = None) -> None:
-        if color is None:
-            color = self.palette.text_color
-        self.dwg.add(svgwrite.text.Text(text=text))
+        # if color is None:
+        #    color = self.palette.text_color
+        self.dwg.add(svgwrite.text.Text(text=text, color=color))
 
     def rectangle(self) -> None:
+        self.dwg.add(svgwrite.shapes.Rect())
+
+    def square(self) -> None:
         self.dwg.add(svgwrite.shapes.Rect())
 
     def save(self) -> None:
