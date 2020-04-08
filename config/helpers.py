@@ -3,17 +3,17 @@ from typing import List
 import os
 
 
-def array_indented(level: int, l: List[str], quote_char='\'', comma_after=False) -> str:
+def array_indented(level: int, values: List[str], quote_char='\'', comma_after=False) -> str:
     """
     return an array indented according to indent level
     :param level:
-    :param l:
+    :param values:
     :param quote_char:
     :param comma_after:
     :return:
     """
     out = "[\n"
-    for x in l:
+    for x in values:
         out += (((level+1) * 4) * " ") + '{}{}{}'.format(quote_char, x, quote_char) + ",\n"
     out += ((level * 4) * " ") + "]"
     if comma_after:
