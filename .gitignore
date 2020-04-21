@@ -102,5 +102,3 @@ ENV/
 
 /.pydmt/
 /docs/.doctrees
-
-/.idea/workspace.xml
