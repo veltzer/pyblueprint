@@ -8,6 +8,9 @@ console_scripts = [
 setup_requires = [
 ]
 
+test_requires = [
+]
+
 install_requires = [
     'svgwrite',
 ]
