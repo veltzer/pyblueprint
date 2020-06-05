@@ -2,27 +2,28 @@ import setuptools
 
 setuptools.setup(
     # the first three fields are a must according to the documentation
-    name='pyblueprint',
-    version='0.0.1',
+    name="pyblueprint",
+    version="0.0.1",
     packages=[
         'pyblueprint',
     ],
     # from here all is optional
-    description='draw diagrams using python',
-    long_description='draw diagrams using python',
-    author='Mark Veltzer',
-    author_email='mark.veltzer@gmail.com',
-    maintainer='Mark Veltzer',
-    maintainer_email='mark.veltzer@gmail.com',
+    description="draw diagrams using python",
+    long_description="draw diagrams using python",
+    long_description_content_type="text/x-rst",
+    author="Mark Veltzer",
+    author_email="mark.veltzer@gmail.com",
+    maintainer="Mark Veltzer",
+    maintainer_email="mark.veltzer@gmail.com",
     keywords=[
         'svg',
         'diagram',
         'python',
         'inkscape',
     ],
-    url='https://veltzer.github.io/pyblueprint',
-    download_url='https://github.com/veltzer/pyblueprint',
-    license='MIT',
+    url="https://veltzer.github.io/pyblueprint",
+    download_url="https://github.com/veltzer/pyblueprint",
+    license="MIT",
     platforms=[
         'python3',
     ],
@@ -41,7 +42,7 @@ setuptools.setup(
     ],
     data_files=[
     ],
-    entry_points={'console_scripts': [
+    entry_points={"console_scripts": [
     ]},
-    python_requires='>=3.5',
+    python_requires=">=3.5",
 )
