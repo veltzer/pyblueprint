@@ -20,6 +20,14 @@ pyblueprint.colors module
    :undoc-members:
    :show-inheritance:
 
+pyblueprint.version module
+--------------------------
+
+.. automodule:: pyblueprint.version
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 
 Module contents
 ---------------
