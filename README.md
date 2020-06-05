@@ -6,6 +6,10 @@
 ![GitHub](https://img.shields.io/github/license/veltzer/pyblueprint)
 ![PyPI](https://img.shields.io/pypi/v/pyblueprint)
 ![PyPI - Format](https://img.shields.io/pypi/format/pyblueprint)
+[![Downloads](https://pepy.tech/badge/pytsv)](https://pepy.tech/project/pyblueprint)
+[![Downloads](https://pepy.tech/badge/pytsv/month)](https://pepy.tech/project/pyblueprint/month)
+[![Downloads](https://pepy.tech/badge/pytsv/week)](https://pepy.tech/project/pyblueprint/week)
+
 
 draw diagrams using python
 
