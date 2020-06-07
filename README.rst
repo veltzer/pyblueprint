@@ -2,9 +2,11 @@
 *pyblueprint*
 =============
 
-.. image:: https://img.shields.io/github/license/veltzer/pydmt   :alt: GitHub
+.. image:: https://img.shields.io/pypi/v/pyblueprint
 
-![build](https://github.com/veltzer/pyblueprint/workflows/build/badge.svg)
+.. image:: https://img.shields.io/github/license/veltzer/pyblueprint
+
+.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
 
 project website: https://veltzer.github.io/pyblueprint
 
