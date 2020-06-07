@@ -29,7 +29,7 @@ setuptools.setup(
     ],
     url="https://veltzer.github.io/pyblueprint",
     download_url="https://github.com/veltzer/pyblueprint",
-    # license="MIT",
+    license="MIT",
     platforms=[
         'python3',
     ],
