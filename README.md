@@ -1,5 +1,4 @@
 
-
 # *pyblueprint* project by Mark Veltzer
 
 ![PyPI - Status](https://img.shields.io/pypi/status/pyblueprint)
@@ -17,7 +16,7 @@
 ![Downloads](https://pepy.tech/badge/pyblueprint/month)
 ![Downloads](https://pepy.tech/badge/pyblueprint/week)
 
+
 draw diagrams using python
 
-project website: https://veltzer.github.io/pyblueprint
-
+project website: <https://veltzer.github.io/pyblueprint>
