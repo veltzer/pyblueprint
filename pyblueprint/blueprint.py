@@ -12,8 +12,8 @@ class Palette:
 
 
 class BluePrint:
-    def __init__(self, filename: str):
-        self.dwg = svgwrite.Drawing(filename=filename)
+    def __init__(self):
+        self.dwg = svgwrite.Drawing(size=(100, 100))
         self.palette = Palette()
 
     def background(self):
@@ -30,5 +30,5 @@ class BluePrint:
     def square(self) -> None:
         self.dwg.add(svgwrite.shapes.Rect())
 
-    def save(self) -> None:
-        self.dwg.save()
+    def save(self, filename: str) -> None:
+        self.dwg.saveas(filename=filename)
