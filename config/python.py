@@ -19,6 +19,7 @@ dev_requires = [
     'pypitools',
     'pydmt',
     'pyclassifiers',
+    'pylint',
 ]
 
 python_requires = ">=3.6"
