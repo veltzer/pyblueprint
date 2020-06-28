@@ -5,3 +5,4 @@ svgwrite
 pypitools
 pydmt
 pyclassifiers
+pylint
