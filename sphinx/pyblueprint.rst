@@ -20,10 +20,10 @@ pyblueprint.colors module
    :undoc-members:
    :show-inheritance:
 
-pyblueprint.version module
---------------------------
+pyblueprint.static module
+-------------------------
 
-.. automodule:: pyblueprint.version
+.. automodule:: pyblueprint.static
    :members:
    :undoc-members:
    :show-inheritance:
