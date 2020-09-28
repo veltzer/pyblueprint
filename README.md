@@ -16,6 +16,8 @@
 ![Downloads](https://pepy.tech/badge/pyblueprint/month)
 ![Downloads](https://pepy.tech/badge/pyblueprint/week)
 
+[![Known Vulnerabilities](https://snyk.io/test/github/veltzer/pyblueprint/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/veltzer/pyblueprint?targetFile=requirements.txt)
+
 
 
 draw diagrams using python
