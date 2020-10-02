@@ -19,6 +19,9 @@
 [![Known Vulnerabilities](https://snyk.io/test/github/veltzer/pyblueprint/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/veltzer/pyblueprint?targetFile=requirements.txt)
 
 
+Actions
+
+![build](https://github.com/veltzer/pyblueprint/workflows/build/badge.svg)
 
 draw diagrams using python
 
