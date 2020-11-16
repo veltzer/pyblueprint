@@ -13,6 +13,7 @@ test_requires = [
     'pytest-cov',
     'pylint',
     'flake8',
+    'pymakehelper',  # for the makefile
 ]
 
 install_requires = [
