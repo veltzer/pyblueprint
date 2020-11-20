@@ -2,3 +2,4 @@
 VERSION_STR = "0.0.2"
 DESCRIPTION = "draw diagrams using python"
 APP_NAME = "pyblueprint"
+LOGGER_NAME = "pyblueprint"
