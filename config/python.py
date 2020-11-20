@@ -13,7 +13,7 @@ test_requires = [
     'pytest-cov',
     'pylint',
     'flake8',
-    'pymakehelper',  # for the makefile
+    'pymakehelper',
 ]
 
 install_requires = [
@@ -30,5 +30,4 @@ dev_requires = [
 python_requires = ">=3.6"
 
 extras_require = {
-    # ':python_version == "2.7"': ['futures'],  # for python2.7 backport of concurrent.futures
 }
