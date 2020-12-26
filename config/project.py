@@ -44,3 +44,5 @@ project_classifiers = [
     pyclassifiers.values.License__OSIApproved__MITLicense,
 ]
 project_data_files = []
+
+codacy_id = None
