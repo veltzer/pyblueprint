@@ -14,7 +14,6 @@
 ![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)
 
 ![build](https://github.com/veltzer/pyblueprint/workflows/build/badge.svg)
-
 draw diagrams using python
 
 project website: https://veltzer.github.io/pyblueprint
