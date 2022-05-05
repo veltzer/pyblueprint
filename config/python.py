@@ -2,12 +2,9 @@ import config.project
 
 package_name = config.project.project_name
 
-console_scripts = [
-]
-
-setup_requires = [
-]
-
+console_scripts = []
+setup_requires = []
+run_requires = []
 test_requires = [
     'pytest',
     'pytest-cov',
@@ -15,11 +12,9 @@ test_requires = [
     'flake8',
     'pymakehelper',
 ]
-
 install_requires = [
     'svgwrite',
 ]
-
 dev_requires = [
     'pypitools',
     'pydmt',
@@ -27,8 +22,7 @@ dev_requires = [
     'pylint',
 ]
 
-extras_require = {
-}
+extras_require = {}
 
 python_requires = ">=3.9"
 test_os = ["ubuntu-20.04"]
