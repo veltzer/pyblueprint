@@ -2,6 +2,15 @@ import config.project
 
 package_name = config.project.project_name
 
+dev_requires = [
+    "pypitools",
+    "pydmt",
+    "pyclassifiers",
+    "pylint",
+]
+install_requires = [
+    "svgwrite",
+]
 test_requires = [
     "pytest",
     "pytest-cov",
@@ -9,16 +18,8 @@ test_requires = [
     "flake8",
     "pymakehelper",
 ]
-install_requires = [
-    "svgwrite",
-]
-dev_requires = [
-    "pypitools",
-    "pydmt",
-    "pyclassifiers",
-    "pylint",
-]
 
-python_requires = ">=3.9"
-test_os = ["ubuntu-20.04"]
-test_python = ["3.9"]
+python_requires = ">=3.10"
+
+test_os = ["ubuntu-22.04"]
+test_python = ["3.10"]
