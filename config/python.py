@@ -4,9 +4,12 @@ package_name = config.project.project_name
 
 dev_requires = [
     "pypitools",
-    "pydmt",
+]
+config_requires = [
     "pyclassifiers",
-    "pylint",
+]
+make_requires = [
+    "pymakehelper",
 ]
 install_requires = [
     "svgwrite",
