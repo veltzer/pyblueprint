@@ -3,9 +3,6 @@
 svgwrite
 # dev requirements
 pypitools
-pydmt
-pyclassifiers
-pylint
 # test requirements
 pytest
 pytest-cov
