@@ -9,3 +9,4 @@ pytest-cov
 pylint
 flake8
 pymakehelper
+mypy
