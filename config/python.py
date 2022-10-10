@@ -7,6 +7,7 @@ config_requires = [
 make_requires = [
     "pymakehelper",
     "pydmt",
+    "pyclassifiers",
 ]
 install_requires = [
     "svgwrite",
@@ -16,6 +17,5 @@ test_requires = [
     "pytest-cov",
     "pylint",
     "flake8",
-    "pymakehelper",
     "mypy",
 ]
