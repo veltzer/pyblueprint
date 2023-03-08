@@ -1,6 +1,8 @@
 """
 This is the module of pyblueprint
 """
+from typing import Optional
+
 import svgwrite
 import svgwrite.text
 import svgwrite.shapes
@@ -19,7 +21,7 @@ class BluePrint:
     def background(self):
         self.dwg.add(svgwrite.shapes.Rect())
 
-    def text(self, text: str, color: str = None) -> None:
+    def text(self, text: str, color: Optional[str] = None) -> None:
         if color is None:
             color = self.palette.text_color
         self.dwg.add(svgwrite.text.Text(text=text, color=color))
