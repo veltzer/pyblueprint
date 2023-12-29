@@ -4,13 +4,13 @@ dev_requires = [
 config_requires = [
     "pyclassifiers",
 ]
+install_requires = [
+    "svgwrite",
+]
 make_requires = [
     "pymakehelper",
     "pydmt",
     "pyclassifiers",
-]
-install_requires = [
-    "svgwrite",
 ]
 test_requires = [
     "pytest",
@@ -19,3 +19,4 @@ test_requires = [
     "flake8",
     "mypy",
 ]
+requires = config_requires + install_requires + make_requires + test_requires
