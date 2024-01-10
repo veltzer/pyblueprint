@@ -2,7 +2,9 @@ from typing import List
 
 
 dev_requires: List[str] = [
+    "pymultigit",
     "pypitools",
+    "black",
 ]
 config_requires: List[str] = [
     "pyclassifiers",
