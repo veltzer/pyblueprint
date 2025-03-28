@@ -1,3 +1,5 @@
+""" empty.py """
+
 import pyblueprint.blueprint
 
 b = pyblueprint.blueprint.BluePrint()
