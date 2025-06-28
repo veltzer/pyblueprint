@@ -1,8 +1,6 @@
 """
 This is the module of pyblueprint
 """
-from typing import Optional
-
 import svgwrite
 import svgwrite.text
 import svgwrite.shapes
