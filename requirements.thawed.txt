@@ -5,6 +5,5 @@ pydmt
 pylint
 pymakehelper
 pytest
-pytest-cov
 ruff
 svgwrite
