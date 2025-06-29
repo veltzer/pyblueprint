@@ -1,5 +1,0 @@
-""" version which can be consumed from within the module """
-VERSION_STR = "0.0.4"
-DESCRIPTION = "draw diagrams using python"
-APP_NAME = "pyblueprint"
-LOGGER_NAME = "pyblueprint"
