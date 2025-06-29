@@ -7,8 +7,10 @@ install_requires: list[str] = [
     "svgwrite",
 ]
 build_requires: list[str] = [
-    "pymakehelper",
+    "hatch",
     "pydmt",
+    "pymakehelper",
+    "pycmdtools",
 ]
 test_requires: list[str] = [
     "pytest",
