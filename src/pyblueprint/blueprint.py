@@ -8,7 +8,7 @@ import svgwrite.shapes
 
 class Palette:
     def __init__(self):
-        self.text_color = 'blue'
+        self.text_color = "blue"
 
 
 class BluePrint:
