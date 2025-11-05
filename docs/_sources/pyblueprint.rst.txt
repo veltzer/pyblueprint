@@ -9,29 +9,29 @@ pyblueprint.blueprint module
 
 .. automodule:: pyblueprint.blueprint
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
 
 pyblueprint.colors module
 -------------------------
 
 .. automodule:: pyblueprint.colors
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
 
 pyblueprint.static module
 -------------------------
 
 .. automodule:: pyblueprint.static
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
 
 Module contents
 ---------------
 
 .. automodule:: pyblueprint
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
