@@ -2,8 +2,8 @@
 This is the module of pyblueprint
 """
 import svgwrite
-import svgwrite.text
 import svgwrite.shapes
+import svgwrite.text
 
 
 class Palette:
