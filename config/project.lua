@@ -6,3 +6,4 @@ KEYWORDS = {
     "python",
     "inkscape",
 }
+PYPI = true
