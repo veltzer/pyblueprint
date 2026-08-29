@@ -36,6 +36,14 @@ dependencies = [
     "svgwrite",
 ]
 
+[dependency-groups]
+dev = [
+    "mypy",
+    "pylint",
+    "pytest",
+    "ruff",
+]
+
 [project.urls]
 "Homepage" = "https://github.com/veltzer/pyblueprint"
 "Bug Tracker" = "https://github.com/veltzer/pyblueprint/issues"
