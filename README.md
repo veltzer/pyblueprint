@@ -5,7 +5,7 @@
 
 description: draw diagrams using python
 
-project website: https://veltzer.github.io/pyblueprint
+project website: <https://veltzer.github.io/pyblueprint>
 
 author: Mark Veltzer
 
